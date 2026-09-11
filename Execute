@@ -1,2 +1,0 @@
-chmod +x obfuscate.sh
-./obfuscate.sh yourscript.lua
